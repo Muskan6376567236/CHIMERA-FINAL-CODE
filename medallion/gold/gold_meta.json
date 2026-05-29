@@ -1,0 +1,36 @@
+{
+  "built_at": "2026-05-12T19:33:21.456104",
+  "tables": {
+    "fact_sales": {
+      "rows": 53416,
+      "path": "E:\\chimera_final\\medallion\\gold\\fact_sales.parquet"
+    },
+    "dim_customers": {
+      "rows": 18148,
+      "path": "E:\\chimera_final\\medallion\\gold\\dim_customers.parquet"
+    },
+    "dim_products": {
+      "rows": 293,
+      "path": "E:\\chimera_final\\medallion\\gold\\dim_products.parquet"
+    },
+    "dim_territories": {
+      "rows": 10,
+      "path": "E:\\chimera_final\\medallion\\gold\\dim_territories.parquet"
+    },
+    "fact_returns": {
+      "rows": 1809,
+      "path": "E:\\chimera_final\\medallion\\gold\\fact_returns.parquet"
+    },
+    "kpis": {
+      "summary": {
+        "total_revenue": 18509649.68,
+        "total_profit": 7856157.63,
+        "total_cost": 10653518.78,
+        "total_orders": 22534,
+        "unique_customers": 17238,
+        "avg_order_value": 346.52,
+        "profit_margin_pct": 42.44
+      }
+    }
+  }
+}

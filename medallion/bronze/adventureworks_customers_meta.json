@@ -1,0 +1,22 @@
+{
+  "source_file": "E:\\chimera_final\\datasets\\AdventureWorks_Customers.csv",
+  "bronze_path": "E:\\chimera_final\\medallion\\bronze\\adventureworks_customers.parquet",
+  "table_name": "adventureworks_customers",
+  "rows": 18148,
+  "columns": [
+    "customerkey",
+    "prefix",
+    "firstname",
+    "lastname",
+    "birthdate",
+    "maritalstatus",
+    "gender",
+    "emailaddress",
+    "annualincome",
+    "totalchildren",
+    "educationlevel",
+    "occupation",
+    "homeowner"
+  ],
+  "ingested_at": "2026-05-12T19:33:19.908916"
+}

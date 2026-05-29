@@ -1,0 +1,15 @@
+{
+  "table_name": "adventureworks_product_categories",
+  "silver_path": "E:\\chimera_final\\medallion\\silver\\adventureworks_product_categories.parquet",
+  "rows_before": 4,
+  "rows_after": 4,
+  "columns": [
+    "productcategorykey",
+    "categoryname"
+  ],
+  "dtypes": {
+    "productcategorykey": "Int64",
+    "categoryname": "String"
+  },
+  "cleaned_at": "2026-05-12T19:33:20.104730"
+}

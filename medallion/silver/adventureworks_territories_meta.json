@@ -1,0 +1,19 @@
+{
+  "table_name": "adventureworks_territories",
+  "silver_path": "E:\\chimera_final\\medallion\\silver\\adventureworks_territories.parquet",
+  "rows_before": 10,
+  "rows_after": 10,
+  "columns": [
+    "salesterritorykey",
+    "region",
+    "country",
+    "continent"
+  ],
+  "dtypes": {
+    "salesterritorykey": "Int64",
+    "region": "String",
+    "country": "String",
+    "continent": "String"
+  },
+  "cleaned_at": "2026-05-12T19:33:20.217479"
+}

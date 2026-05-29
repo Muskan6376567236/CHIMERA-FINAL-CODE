@@ -1,0 +1,13 @@
+{
+  "table_name": "adventureworks_calendar",
+  "silver_path": "E:\\chimera_final\\medallion\\silver\\adventureworks_calendar.parquet",
+  "rows_before": 912,
+  "rows_after": 912,
+  "columns": [
+    "date"
+  ],
+  "dtypes": {
+    "date": "Date"
+  },
+  "cleaned_at": "2026-05-12T19:33:19.998826"
+}

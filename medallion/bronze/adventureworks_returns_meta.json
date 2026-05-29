@@ -1,0 +1,13 @@
+{
+  "source_file": "E:\\chimera_final\\datasets\\AdventureWorks_Returns.csv",
+  "bronze_path": "E:\\chimera_final\\medallion\\bronze\\adventureworks_returns.parquet",
+  "table_name": "adventureworks_returns",
+  "rows": 1809,
+  "columns": [
+    "returndate",
+    "territorykey",
+    "productkey",
+    "returnquantity"
+  ],
+  "ingested_at": "2026-05-12T19:33:19.937343"
+}

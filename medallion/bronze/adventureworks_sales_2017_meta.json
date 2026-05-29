@@ -1,0 +1,17 @@
+{
+  "source_file": "E:\\chimera_final\\datasets\\AdventureWorks_Sales_2017.csv",
+  "bronze_path": "E:\\chimera_final\\medallion\\bronze\\adventureworks_sales_2017.parquet",
+  "table_name": "adventureworks_sales_2017",
+  "rows": 29481,
+  "columns": [
+    "orderdate",
+    "stockdate",
+    "ordernumber",
+    "productkey",
+    "customerkey",
+    "territorykey",
+    "orderlineitem",
+    "orderquantity"
+  ],
+  "ingested_at": "2026-05-12T19:33:19.984516"
+}

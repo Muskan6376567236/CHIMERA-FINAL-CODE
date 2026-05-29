@@ -1,0 +1,19 @@
+{
+  "table_name": "adventureworks_returns",
+  "silver_path": "E:\\chimera_final\\medallion\\silver\\adventureworks_returns.parquet",
+  "rows_before": 1809,
+  "rows_after": 1809,
+  "columns": [
+    "returndate",
+    "territorykey",
+    "productkey",
+    "returnquantity"
+  ],
+  "dtypes": {
+    "returndate": "Date",
+    "territorykey": "Int64",
+    "productkey": "Int64",
+    "returnquantity": "Int64"
+  },
+  "cleaned_at": "2026-05-12T19:33:20.125188"
+}

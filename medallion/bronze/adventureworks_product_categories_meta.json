@@ -1,0 +1,11 @@
+{
+  "source_file": "E:\\chimera_final\\datasets\\AdventureWorks_Product_Categories.csv",
+  "bronze_path": "E:\\chimera_final\\medallion\\bronze\\adventureworks_product_categories.parquet",
+  "table_name": "adventureworks_product_categories",
+  "rows": 4,
+  "columns": [
+    "productcategorykey",
+    "categoryname"
+  ],
+  "ingested_at": "2026-05-12T19:33:19.924938"
+}

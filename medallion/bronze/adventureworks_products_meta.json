@@ -1,0 +1,20 @@
+{
+  "source_file": "E:\\chimera_final\\datasets\\AdventureWorks_Products.csv",
+  "bronze_path": "E:\\chimera_final\\medallion\\bronze\\adventureworks_products.parquet",
+  "table_name": "adventureworks_products",
+  "rows": 293,
+  "columns": [
+    "productkey",
+    "productsubcategorykey",
+    "productsku",
+    "productname",
+    "modelname",
+    "productdescription",
+    "productcolor",
+    "productsize",
+    "productstyle",
+    "productcost",
+    "productprice"
+  ],
+  "ingested_at": "2026-05-12T19:33:19.921493"
+}

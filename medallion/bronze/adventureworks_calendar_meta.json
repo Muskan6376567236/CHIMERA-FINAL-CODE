@@ -1,0 +1,10 @@
+{
+  "source_file": "E:\\chimera_final\\datasets\\AdventureWorks_Calendar.csv",
+  "bronze_path": "E:\\chimera_final\\medallion\\bronze\\adventureworks_calendar.parquet",
+  "table_name": "adventureworks_calendar",
+  "rows": 912,
+  "columns": [
+    "date"
+  ],
+  "ingested_at": "2026-05-12T19:33:19.874468"
+}

@@ -1,0 +1,33 @@
+{
+  "table_name": "adventureworks_products",
+  "silver_path": "E:\\chimera_final\\medallion\\silver\\adventureworks_products.parquet",
+  "rows_before": 293,
+  "rows_after": 293,
+  "columns": [
+    "productkey",
+    "productsubcategorykey",
+    "productsku",
+    "productname",
+    "modelname",
+    "productdescription",
+    "productcolor",
+    "productsize",
+    "productstyle",
+    "productcost",
+    "productprice"
+  ],
+  "dtypes": {
+    "productkey": "Int64",
+    "productsubcategorykey": "Int64",
+    "productsku": "String",
+    "productname": "String",
+    "modelname": "String",
+    "productdescription": "String",
+    "productcolor": "String",
+    "productsize": "String",
+    "productstyle": "String",
+    "productcost": "Float64",
+    "productprice": "Float64"
+  },
+  "cleaned_at": "2026-05-12T19:33:20.094641"
+}

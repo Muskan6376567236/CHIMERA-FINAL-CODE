@@ -1,0 +1,37 @@
+{
+  "table_name": "adventureworks_customers",
+  "silver_path": "E:\\chimera_final\\medallion\\silver\\adventureworks_customers.parquet",
+  "rows_before": 18148,
+  "rows_after": 18148,
+  "columns": [
+    "customerkey",
+    "prefix",
+    "firstname",
+    "lastname",
+    "birthdate",
+    "maritalstatus",
+    "gender",
+    "emailaddress",
+    "annualincome",
+    "totalchildren",
+    "educationlevel",
+    "occupation",
+    "homeowner"
+  ],
+  "dtypes": {
+    "customerkey": "Int64",
+    "prefix": "String",
+    "firstname": "String",
+    "lastname": "String",
+    "birthdate": "Date",
+    "maritalstatus": "String",
+    "gender": "String",
+    "emailaddress": "String",
+    "annualincome": "Float64",
+    "totalchildren": "Int64",
+    "educationlevel": "String",
+    "occupation": "String",
+    "homeowner": "String"
+  },
+  "cleaned_at": "2026-05-12T19:33:20.061864"
+}

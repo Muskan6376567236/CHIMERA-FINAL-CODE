@@ -1,0 +1,13 @@
+{
+  "source_file": "E:\\chimera_final\\datasets\\AdventureWorks_Territories.csv",
+  "bronze_path": "E:\\chimera_final\\medallion\\bronze\\adventureworks_territories.parquet",
+  "table_name": "adventureworks_territories",
+  "rows": 10,
+  "columns": [
+    "salesterritorykey",
+    "region",
+    "country",
+    "continent"
+  ],
+  "ingested_at": "2026-05-12T19:33:19.991320"
+}

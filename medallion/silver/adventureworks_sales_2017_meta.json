@@ -1,0 +1,27 @@
+{
+  "table_name": "adventureworks_sales_2017",
+  "silver_path": "E:\\chimera_final\\medallion\\silver\\adventureworks_sales_2017.parquet",
+  "rows_before": 29481,
+  "rows_after": 29481,
+  "columns": [
+    "orderdate",
+    "stockdate",
+    "ordernumber",
+    "productkey",
+    "customerkey",
+    "territorykey",
+    "orderlineitem",
+    "orderquantity"
+  ],
+  "dtypes": {
+    "orderdate": "Date",
+    "stockdate": "Date",
+    "ordernumber": "String",
+    "productkey": "Int64",
+    "customerkey": "Int64",
+    "territorykey": "Int64",
+    "orderlineitem": "Int64",
+    "orderquantity": "Int64"
+  },
+  "cleaned_at": "2026-05-12T19:33:20.210707"
+}
